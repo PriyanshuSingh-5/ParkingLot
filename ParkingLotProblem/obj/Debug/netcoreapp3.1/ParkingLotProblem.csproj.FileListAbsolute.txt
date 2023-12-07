@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\ParkingLotProblem\ParkingLotProblem\bin\Debug\netcoreapp3.1\ParkingLotProblem.exe
+C:\Users\Admin\source\repos\ParkingLotProblem\ParkingLotProblem\bin\Debug\netcoreapp3.1\ParkingLotProblem.deps.json
+C:\Users\Admin\source\repos\ParkingLotProblem\ParkingLotProblem\bin\Debug\netcoreapp3.1\ParkingLotProblem.runtimeconfig.json
+C:\Users\Admin\source\repos\ParkingLotProblem\ParkingLotProblem\bin\Debug\netcoreapp3.1\ParkingLotProblem.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\ParkingLotProblem\ParkingLotProblem\bin\Debug\netcoreapp3.1\ParkingLotProblem.dll
+C:\Users\Admin\source\repos\ParkingLotProblem\ParkingLotProblem\bin\Debug\netcoreapp3.1\ParkingLotProblem.pdb
+C:\Users\Admin\source\repos\ParkingLotProblem\ParkingLotProblem\obj\Debug\netcoreapp3.1\ParkingLotProblem.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\ParkingLotProblem\ParkingLotProblem\obj\Debug\netcoreapp3.1\ParkingLotProblem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\ParkingLotProblem\ParkingLotProblem\obj\Debug\netcoreapp3.1\ParkingLotProblem.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\ParkingLotProblem\ParkingLotProblem\obj\Debug\netcoreapp3.1\ParkingLotProblem.AssemblyInfo.cs
+C:\Users\Admin\source\repos\ParkingLotProblem\ParkingLotProblem\obj\Debug\netcoreapp3.1\ParkingLotProblem.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\ParkingLotProblem\ParkingLotProblem\obj\Debug\netcoreapp3.1\ParkingLotProblem.dll
+C:\Users\Admin\source\repos\ParkingLotProblem\ParkingLotProblem\obj\Debug\netcoreapp3.1\ParkingLotProblem.pdb
+C:\Users\Admin\source\repos\ParkingLotProblem\ParkingLotProblem\obj\Debug\netcoreapp3.1\ParkingLotProblem.genruntimeconfig.cache
